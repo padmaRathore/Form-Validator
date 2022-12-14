@@ -6,3 +6,6 @@ This project is from [Zero to Mastery: Jacascript Web Projects: 20 Projects to B
 
 ## Live Project
 You can view a live version of the project [here]( https://padmarathore.github.io/Form-Validator/)
+
+![img](https://user-images.githubusercontent.com/118360867/207617242-5ff57359-d07b-473b-a7dc-00f7be59ba0d.png)
+
